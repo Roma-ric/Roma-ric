@@ -4,7 +4,7 @@
 
 <!-- <img src="nodejs.png" alt="Header"> -->
 
-**`Software engineer -  Fullstack developer `**
+**`Software engineer -  Frontend developer `**
 
 <p>
   I'm an independent full-stack developer and passionate content creator, carving my own path in the digital world. Each project I undertake is an adventure, spanning from initial conception to solving intricate problems using code.
